@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(108, 204, 211);
+}
+
+hr {
+    color:rgb(100, 46, 46);
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 3px;
+    border-bottom-style: none;
+    border-right-style: none;
+    border-left-style: none;
+}
+h1:hover  {
+    color: #1a8080;
+
+    background-size: 2px;
+}
+
+h3 {
+    color: blueviolet;
+    text-align: center;
+
+}
